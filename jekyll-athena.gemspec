@@ -1,10 +1,10 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "Audio Sutta"
+  spec.name          = "jekyll-athena"
   spec.version       = "0.0.2"
-  spec.authors       = ["Cittadhammo"]
-  spec.email         = ["fractalcitta@gmail.com"]
+  spec.authors       = ["broccolini"]
+  spec.email         = ["diana.mounter@gmail.com"]
 
   spec.summary       = %q{A simple and elegant theme for Jekyll and GitHub Pages.}
   spec.homepage      = "https://audiosutta.github.io/athena"
