@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Athena Jekyll Theme
+title: Audio Sutta
 description: A simple and elegant theme for Jekyll and GitHub Pages.
 # baseurl: "/athena" # the subpath of your site, e.g. /blog
 url: "https://audiosutta.github.io/" # the base hostname & protocol for your site
-github_repo: athena # the GitHub repo name for your project
+github_repo: audiosutta # the GitHub repo name for your project
 github_username: audiosutta
 
 # Optional social link, you can choose from the following options:
